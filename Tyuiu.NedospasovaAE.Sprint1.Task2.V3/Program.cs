@@ -13,7 +13,7 @@ namespace Tyuiu.NedospasovaAE.Sprint1.Task2.V3
         {
             DataService ds = new DataService();
             int x;
-            Console.Title = "Спринт #0 | Выполнила: Недоспасова.А.Э | ИИПб-23-2";
+            Console.Title = "Спринт #1 | Выполнила: Недоспасова.А.Э | ИИПб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Арифметические операции в C#                                      *");
